@@ -1,0 +1,14 @@
+C:\Users\edwin nolasco\source\repos\Calculo Fechas Calendario\bin\Debug\netcoreapp3.1\Calculo Fechas Calendario.exe
+C:\Users\edwin nolasco\source\repos\Calculo Fechas Calendario\bin\Debug\netcoreapp3.1\Calculo Fechas Calendario.deps.json
+C:\Users\edwin nolasco\source\repos\Calculo Fechas Calendario\bin\Debug\netcoreapp3.1\Calculo Fechas Calendario.runtimeconfig.json
+C:\Users\edwin nolasco\source\repos\Calculo Fechas Calendario\bin\Debug\netcoreapp3.1\Calculo Fechas Calendario.runtimeconfig.dev.json
+C:\Users\edwin nolasco\source\repos\Calculo Fechas Calendario\bin\Debug\netcoreapp3.1\Calculo Fechas Calendario.dll
+C:\Users\edwin nolasco\source\repos\Calculo Fechas Calendario\bin\Debug\netcoreapp3.1\Calculo Fechas Calendario.pdb
+C:\Users\edwin nolasco\source\repos\Calculo Fechas Calendario\obj\Debug\netcoreapp3.1\Calculo Fechas Calendario.csproj.AssemblyReference.cache
+C:\Users\edwin nolasco\source\repos\Calculo Fechas Calendario\obj\Debug\netcoreapp3.1\Calculo Fechas Calendario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwin nolasco\source\repos\Calculo Fechas Calendario\obj\Debug\netcoreapp3.1\Calculo Fechas Calendario.AssemblyInfoInputs.cache
+C:\Users\edwin nolasco\source\repos\Calculo Fechas Calendario\obj\Debug\netcoreapp3.1\Calculo Fechas Calendario.AssemblyInfo.cs
+C:\Users\edwin nolasco\source\repos\Calculo Fechas Calendario\obj\Debug\netcoreapp3.1\Calculo Fechas Calendario.csproj.CoreCompileInputs.cache
+C:\Users\edwin nolasco\source\repos\Calculo Fechas Calendario\obj\Debug\netcoreapp3.1\Calculo Fechas Calendario.dll
+C:\Users\edwin nolasco\source\repos\Calculo Fechas Calendario\obj\Debug\netcoreapp3.1\Calculo Fechas Calendario.pdb
+C:\Users\edwin nolasco\source\repos\Calculo Fechas Calendario\obj\Debug\netcoreapp3.1\Calculo Fechas Calendario.genruntimeconfig.cache

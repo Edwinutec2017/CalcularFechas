@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\edwin nolasco\\source\\repos\\Calculo Fechas Calendario\\Calculo Fechas Calendario.csproj": {}
+    "D:\\Repo-git\\CalcularFechas\\Calculo Fechas Calendario\\Calculo Fechas Calendario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\edwin nolasco\\source\\repos\\Calculo Fechas Calendario\\Calculo Fechas Calendario.csproj": {
+    "D:\\Repo-git\\CalcularFechas\\Calculo Fechas Calendario\\Calculo Fechas Calendario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edwin nolasco\\source\\repos\\Calculo Fechas Calendario\\Calculo Fechas Calendario.csproj",
+        "projectUniqueName": "D:\\Repo-git\\CalcularFechas\\Calculo Fechas Calendario\\Calculo Fechas Calendario.csproj",
         "projectName": "Calculo Fechas Calendario",
-        "projectPath": "C:\\Users\\edwin nolasco\\source\\repos\\Calculo Fechas Calendario\\Calculo Fechas Calendario.csproj",
+        "projectPath": "D:\\Repo-git\\CalcularFechas\\Calculo Fechas Calendario\\Calculo Fechas Calendario.csproj",
         "packagesPath": "C:\\Users\\edwin nolasco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edwin nolasco\\source\\repos\\Calculo Fechas Calendario\\obj\\",
+        "outputPath": "D:\\Repo-git\\CalcularFechas\\Calculo Fechas Calendario\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

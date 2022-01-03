@@ -12,3 +12,17 @@ C:\Users\edwin nolasco\source\repos\Calculo Fechas Calendario\obj\Debug\netcorea
 C:\Users\edwin nolasco\source\repos\Calculo Fechas Calendario\obj\Debug\netcoreapp3.1\Calculo Fechas Calendario.dll
 C:\Users\edwin nolasco\source\repos\Calculo Fechas Calendario\obj\Debug\netcoreapp3.1\Calculo Fechas Calendario.pdb
 C:\Users\edwin nolasco\source\repos\Calculo Fechas Calendario\obj\Debug\netcoreapp3.1\Calculo Fechas Calendario.genruntimeconfig.cache
+D:\Repo-git\CalcularFechas\Calculo Fechas Calendario\bin\Debug\netcoreapp3.1\Calculo Fechas Calendario.exe
+D:\Repo-git\CalcularFechas\Calculo Fechas Calendario\bin\Debug\netcoreapp3.1\Calculo Fechas Calendario.deps.json
+D:\Repo-git\CalcularFechas\Calculo Fechas Calendario\bin\Debug\netcoreapp3.1\Calculo Fechas Calendario.runtimeconfig.json
+D:\Repo-git\CalcularFechas\Calculo Fechas Calendario\bin\Debug\netcoreapp3.1\Calculo Fechas Calendario.runtimeconfig.dev.json
+D:\Repo-git\CalcularFechas\Calculo Fechas Calendario\bin\Debug\netcoreapp3.1\Calculo Fechas Calendario.dll
+D:\Repo-git\CalcularFechas\Calculo Fechas Calendario\bin\Debug\netcoreapp3.1\Calculo Fechas Calendario.pdb
+D:\Repo-git\CalcularFechas\Calculo Fechas Calendario\obj\Debug\netcoreapp3.1\Calculo Fechas Calendario.csproj.AssemblyReference.cache
+D:\Repo-git\CalcularFechas\Calculo Fechas Calendario\obj\Debug\netcoreapp3.1\Calculo Fechas Calendario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo-git\CalcularFechas\Calculo Fechas Calendario\obj\Debug\netcoreapp3.1\Calculo Fechas Calendario.AssemblyInfoInputs.cache
+D:\Repo-git\CalcularFechas\Calculo Fechas Calendario\obj\Debug\netcoreapp3.1\Calculo Fechas Calendario.AssemblyInfo.cs
+D:\Repo-git\CalcularFechas\Calculo Fechas Calendario\obj\Debug\netcoreapp3.1\Calculo Fechas Calendario.csproj.CoreCompileInputs.cache
+D:\Repo-git\CalcularFechas\Calculo Fechas Calendario\obj\Debug\netcoreapp3.1\Calculo Fechas Calendario.dll
+D:\Repo-git\CalcularFechas\Calculo Fechas Calendario\obj\Debug\netcoreapp3.1\Calculo Fechas Calendario.pdb
+D:\Repo-git\CalcularFechas\Calculo Fechas Calendario\obj\Debug\netcoreapp3.1\Calculo Fechas Calendario.genruntimeconfig.cache

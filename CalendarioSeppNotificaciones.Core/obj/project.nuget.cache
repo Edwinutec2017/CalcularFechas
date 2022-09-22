@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Abe/QGmwntX41PIUd9N28ar+w9spP7M8r0MpwruVni3BMxpi2IFdc2CFbJmRNt903g2zciLnikqSus52oRJWQA==",
+  "success": true,
+  "projectFilePath": "D:\\Proyecto visual 2019\\CalendarioSeppNotificaciones.Core\\CalendarioSeppNotificaciones.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edwin nolasco\\.nuget\\packages\\log4net\\2.0.14\\log4net.2.0.14.nupkg.sha512",
+    "C:\\Users\\edwin nolasco\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\edwin nolasco\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\edwin nolasco\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\edwin nolasco\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\edwin nolasco\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\edwin nolasco\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

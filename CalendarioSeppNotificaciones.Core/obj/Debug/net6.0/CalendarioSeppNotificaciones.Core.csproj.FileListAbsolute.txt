@@ -1,0 +1,12 @@
+D:\Proyecto visual 2019\CalendarioSeppNotificaciones.Core\bin\Debug\net6.0\CalendarioSeppNotificaciones.Core.deps.json
+D:\Proyecto visual 2019\CalendarioSeppNotificaciones.Core\bin\Debug\net6.0\CalendarioSeppNotificaciones.Core.dll
+D:\Proyecto visual 2019\CalendarioSeppNotificaciones.Core\bin\Debug\net6.0\CalendarioSeppNotificaciones.Core.pdb
+D:\Proyecto visual 2019\CalendarioSeppNotificaciones.Core\obj\Debug\net6.0\CalendarioSeppNotificaciones.Core.csproj.AssemblyReference.cache
+D:\Proyecto visual 2019\CalendarioSeppNotificaciones.Core\obj\Debug\net6.0\CalendarioSeppNotificaciones.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyecto visual 2019\CalendarioSeppNotificaciones.Core\obj\Debug\net6.0\CalendarioSeppNotificaciones.Core.AssemblyInfoInputs.cache
+D:\Proyecto visual 2019\CalendarioSeppNotificaciones.Core\obj\Debug\net6.0\CalendarioSeppNotificaciones.Core.AssemblyInfo.cs
+D:\Proyecto visual 2019\CalendarioSeppNotificaciones.Core\obj\Debug\net6.0\CalendarioSeppNotificaciones.Core.csproj.CoreCompileInputs.cache
+D:\Proyecto visual 2019\CalendarioSeppNotificaciones.Core\obj\Debug\net6.0\CalendarioSeppNotificaciones.Core.dll
+D:\Proyecto visual 2019\CalendarioSeppNotificaciones.Core\obj\Debug\net6.0\refint\CalendarioSeppNotificaciones.Core.dll
+D:\Proyecto visual 2019\CalendarioSeppNotificaciones.Core\obj\Debug\net6.0\CalendarioSeppNotificaciones.Core.pdb
+D:\Proyecto visual 2019\CalendarioSeppNotificaciones.Core\obj\Debug\net6.0\ref\CalendarioSeppNotificaciones.Core.dll

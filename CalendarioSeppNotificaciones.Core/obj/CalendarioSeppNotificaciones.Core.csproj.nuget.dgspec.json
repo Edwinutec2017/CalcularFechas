@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Proyecto visual 2019\\CalendarioSeppNotificaciones.Core\\CalendarioSeppNotificaciones.Core.csproj": {}
+    "D:\\Repo-git\\CalcularFechas\\CalendarioSeppNotificaciones.Core\\CalendarioSeppNotificaciones.Core.csproj": {}
   },
   "projects": {
-    "D:\\Proyecto visual 2019\\CalendarioSeppNotificaciones.Core\\CalendarioSeppNotificaciones.Core.csproj": {
+    "D:\\Repo-git\\CalcularFechas\\CalendarioSeppNotificaciones.Core\\CalendarioSeppNotificaciones.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyecto visual 2019\\CalendarioSeppNotificaciones.Core\\CalendarioSeppNotificaciones.Core.csproj",
+        "projectUniqueName": "D:\\Repo-git\\CalcularFechas\\CalendarioSeppNotificaciones.Core\\CalendarioSeppNotificaciones.Core.csproj",
         "projectName": "CalendarioSeppNotificaciones.Core",
-        "projectPath": "D:\\Proyecto visual 2019\\CalendarioSeppNotificaciones.Core\\CalendarioSeppNotificaciones.Core.csproj",
+        "projectPath": "D:\\Repo-git\\CalcularFechas\\CalendarioSeppNotificaciones.Core\\CalendarioSeppNotificaciones.Core.csproj",
         "packagesPath": "C:\\Users\\edwin nolasco\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyecto visual 2019\\CalendarioSeppNotificaciones.Core\\obj\\",
+        "outputPath": "D:\\Repo-git\\CalcularFechas\\CalendarioSeppNotificaciones.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -10,3 +10,15 @@ D:\Proyecto visual 2019\CalendarioSeppNotificaciones.Core\obj\Debug\net6.0\Calen
 D:\Proyecto visual 2019\CalendarioSeppNotificaciones.Core\obj\Debug\net6.0\refint\CalendarioSeppNotificaciones.Core.dll
 D:\Proyecto visual 2019\CalendarioSeppNotificaciones.Core\obj\Debug\net6.0\CalendarioSeppNotificaciones.Core.pdb
 D:\Proyecto visual 2019\CalendarioSeppNotificaciones.Core\obj\Debug\net6.0\ref\CalendarioSeppNotificaciones.Core.dll
+D:\Repo-git\CalcularFechas\CalendarioSeppNotificaciones.Core\bin\Debug\net6.0\CalendarioSeppNotificaciones.Core.deps.json
+D:\Repo-git\CalcularFechas\CalendarioSeppNotificaciones.Core\bin\Debug\net6.0\CalendarioSeppNotificaciones.Core.dll
+D:\Repo-git\CalcularFechas\CalendarioSeppNotificaciones.Core\bin\Debug\net6.0\CalendarioSeppNotificaciones.Core.pdb
+D:\Repo-git\CalcularFechas\CalendarioSeppNotificaciones.Core\obj\Debug\net6.0\CalendarioSeppNotificaciones.Core.csproj.AssemblyReference.cache
+D:\Repo-git\CalcularFechas\CalendarioSeppNotificaciones.Core\obj\Debug\net6.0\CalendarioSeppNotificaciones.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo-git\CalcularFechas\CalendarioSeppNotificaciones.Core\obj\Debug\net6.0\CalendarioSeppNotificaciones.Core.AssemblyInfoInputs.cache
+D:\Repo-git\CalcularFechas\CalendarioSeppNotificaciones.Core\obj\Debug\net6.0\CalendarioSeppNotificaciones.Core.AssemblyInfo.cs
+D:\Repo-git\CalcularFechas\CalendarioSeppNotificaciones.Core\obj\Debug\net6.0\CalendarioSeppNotificaciones.Core.csproj.CoreCompileInputs.cache
+D:\Repo-git\CalcularFechas\CalendarioSeppNotificaciones.Core\obj\Debug\net6.0\CalendarioSeppNotificaciones.Core.dll
+D:\Repo-git\CalcularFechas\CalendarioSeppNotificaciones.Core\obj\Debug\net6.0\refint\CalendarioSeppNotificaciones.Core.dll
+D:\Repo-git\CalcularFechas\CalendarioSeppNotificaciones.Core\obj\Debug\net6.0\CalendarioSeppNotificaciones.Core.pdb
+D:\Repo-git\CalcularFechas\CalendarioSeppNotificaciones.Core\obj\Debug\net6.0\ref\CalendarioSeppNotificaciones.Core.dll

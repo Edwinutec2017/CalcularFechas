@@ -9,7 +9,7 @@ namespace CalendarioSeppNotificaciones.Core.UseCase.Interfaces
   public  interface IGenerarScrip
     {
         Task<List<Base64File>> GenerarScript(List<DiasCalculados> diasCalculados,int anio);
-        Task<Base64File> FileSql(List<DiasCalculados> calendario);
+        Task<Base64File> FileSql(List<DiasCalculados> calendario, int anio );
         Task<Base64File> FileSqlRollback(int anio);
 
     }

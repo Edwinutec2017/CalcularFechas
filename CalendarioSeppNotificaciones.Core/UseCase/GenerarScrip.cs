@@ -17,7 +17,7 @@ namespace CalendarioSeppNotificaciones.Core.UseCase
             _log = LogManager.GetLogger(MethodBase.GetCurrentMethod().DeclaringType);
         }
 
-        public async Task<Base64File> FileSql(List<DiasCalculados> calendario)
+        public async Task<Base64File> FileSql(List<DiasCalculados> calendario, int anio)
         {
             Base64File base64File = new Base64File();
             string[] textoscrip = new string[10] ;
@@ -61,7 +61,7 @@ namespace CalendarioSeppNotificaciones.Core.UseCase
                     fileStream.Close();
 
                     base64File.Base64 = Convert.ToBase64String(File.ReadAllBytes(fileStream.Name));
-                    base64File.Name = $"V{DateTime.Now:ddMMyyyy}_SQL_AUTOSERVICIOEMPLEADORES_INSERT_CALENDARIO2022SEP.SQL";
+                    base64File.Name = $"V{DateTime.Now:ddMMyyyy}_SQL_AUTOSERVICIOEMPLEADORES_INSERT_CALENDARIO{anio}SEPP.SQL";
 
                     if (base64File.Base64 != null && base64File.Base64.Length > 0) 
                     {
@@ -105,7 +105,7 @@ namespace CalendarioSeppNotificaciones.Core.UseCase
                     fileStream.Close();
 
                     base64File.Base64 = Convert.ToBase64String(File.ReadAllBytes(fileStream.Name));
-                    base64File.Name = $"U{DateTime.Now.ToString("ddMMyyyy")}_SQL_AUTOSERVICIOEMPLEADORES_INSERT_CALENDARIO2022SEP_ROLLBACK.SQL";
+                    base64File.Name = $"U{DateTime.Now.ToString("ddMMyyyy")}_SQL_AUTOSERVICIOEMPLEADORES_INSERT_CALENDARIO{anio}SEPP_ROLLBACK.SQL";
 
                     if (base64File.Base64 != null && base64File.Base64.Length > 0)
                     {
@@ -129,7 +129,7 @@ namespace CalendarioSeppNotificaciones.Core.UseCase
 
         public async Task<List<Base64File>> GenerarScript(List<DiasCalculados> diasCalculados, int anio)
         {
-        return new List<Base64File>() { await FileSql(diasCalculados), await FileSqlRollback(anio) };
+        return new List<Base64File>() { await FileSql(diasCalculados,anio), await FileSqlRollback(anio) };
          
         }
     }
